@@ -19,3 +19,7 @@ las prácticas en equipo y reducir problemas por diferencias de configuración.
 Me gustaría preparar una aplicación web sencilla para registrar tareas escolares
 y ejecutarla dentro de un contenedor. Después conectaría una base de datos
 con Docker Compose y guardaría sus datos en un volumen. Es una propuesta de aprendizaje.
+
+## Imagen y contenedor
+Una imagen es la plantilla; un contenedor es una instancia de esa imagen.
+Los datos que deban conservarse deben almacenarse en volumenes o almacenamiento externo.
