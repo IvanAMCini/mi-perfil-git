@@ -14,3 +14,6 @@ Consulta [tecnologia-it.md](tecnologia-it.md).
 
 ## Práctica con el remoto
 Este cambio se guardó en una copia clonada y se recuperó en el repositorio original con git pull.
+
+## Evidencias de la practica
+Se verificaron restore, staging, archivos ignorados, ramas y sincronizacion remota.
