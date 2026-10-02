@@ -14,3 +14,8 @@ las prácticas en equipo y reducir problemas por diferencias de configuración.
 - Conceptos de procesos, puertos y redes.
 - Diferencias entre una imagen y un contenedor.
 - Cómo escribir un Dockerfile y usar volúmenes para conservar datos.
+
+## ¿Qué me gustaría construir?
+Me gustaría preparar una aplicación web sencilla para registrar tareas escolares
+y ejecutarla dentro de un contenedor. Después conectaría una base de datos
+con Docker Compose y guardaría sus datos en un volumen. Es una propuesta de aprendizaje.
